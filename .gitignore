@@ -43,3 +43,4 @@ admin/config.js
 /android
 
 admin/
+src/config/supabase.js
